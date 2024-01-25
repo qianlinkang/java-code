@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-01-24T10:12:01.438833100Z</date>
+  <millis>1706091121438</millis>
+  <nanos>833100</nanos>
+  <sequence>0</sequence>
+  <logger>fkjava</logger>
+  <level>FINE</level>
+  <class>code.java.learn.ch7.s7.LogTest</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>debug信息</message>
+</record>
+<record>
+  <date>2024-01-24T10:12:01.443825100Z</date>
+  <millis>1706091121443</millis>
+  <nanos>825100</nanos>
+  <sequence>1</sequence>
+  <logger>fkjava</logger>
+  <level>INFO</level>
+  <class>code.java.learn.ch7.s7.LogTest</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>info信息</message>
+</record>
+<record>
+  <date>2024-01-24T10:12:01.463766300Z</date>
+  <millis>1706091121463</millis>
+  <nanos>766300</nanos>
+  <sequence>2</sequence>
+  <logger>fkjava</logger>
+  <level>SEVERE</level>
+  <class>code.java.learn.ch7.s7.LogTest</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>error信息</message>
+</record>
+</log>
